@@ -13,17 +13,21 @@
   I enjoy building backend systems that reduce operational friction, connect external services, and turn technical workflows into practical tools.
 </p>
 
+
 <p align="center">
   <a href="https://github.com/cfabrica46?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View%20Projects-0F172A?style=for-the-badge" alt="Repositories" />
+    <strong>Explore Projects</strong>
   </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/cfabrica46/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    LinkedIn
   </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:cfabrica46@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    Email
   </a>
 </p>
+
 
 ---
 
