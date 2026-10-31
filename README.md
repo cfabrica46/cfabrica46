@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=220&section=header&text=C%C3%A9sar%20Caycho&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Software%20Engineer%20%7C%20Go%20(Golang)%20%7C%20Integrations%20%26%20Automation&descAlignY=58&descSize=18"
+    src="./assets/banner.png"
     alt="César Caycho — Backend Software Engineer"
   />
 </p>
